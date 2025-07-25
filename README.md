@@ -1,6 +1,6 @@
 # Impact of Remote Work on Mental Health
 ## Overview
-This project explores how remote and hybrid work environments affect employee mental well-being across industries, job roles, and demographics. Using a dataset of 5,000 global employees, we conducted an in-depth analysis to uncover trends in stress levels, job satisfaction, and social isolation.
+This project explores how remote and hybrid work environments affect employee mental well-being across industries, job roles, and demographics. Using a dataset of 5,000 global employees, I conducted an in-depth analysis to uncover trends in stress levels, job satisfaction, and social isolation.
 The analysis was performed using Microsoft Power BI, and strategic recommendations were made to guide organizations in designing healthier, more productive work environments.
 ## Dataset Summary
 The dataset includes the following attributes:
